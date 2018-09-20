@@ -1,0 +1,37 @@
+_repo: Frank-Nelson-in-the-Forecastle-Or-The-Sportman-s-Club-Among-the-Whalers_53420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2016-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whales -- Juvenile fiction'
+- !lcsh 'Boys -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Whalers (Persons) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- GITenberg
+title: Frank Nelson in the Forecastle; Or, The Sportman's Club Among the Whalers
+url: http://www.gutenberg.org/ebooks/53420
